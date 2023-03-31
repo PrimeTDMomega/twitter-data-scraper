@@ -1,2 +1,2 @@
-# twitter-data-scraper
-A data scraper for the social media website Twitter
+# Twitter Scraper
+I mean if they take your data you might as well take there's :)

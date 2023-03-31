@@ -1,0 +1,4 @@
+playwright==1.14.2
+playwright-webkit==1.14.2
+playwright-chromium==1.14.2
+playwright-firefox==1.14.2
